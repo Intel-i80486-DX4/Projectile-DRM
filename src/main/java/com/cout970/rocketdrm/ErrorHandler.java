@@ -29,7 +29,7 @@ public class ErrorHandler {
         Map drm_inject = (Map)Launch.blackboard.get("DRM-InjectData");
         List handlers = (List)drm_inject.get("error-handlers");
         if (handlers != null) {
-            for (Consumer handler : handlers) {
+            /*for (Object handler : handlers) {
                 try {
                     handler.accept(error);
                 }
@@ -37,6 +37,7 @@ public class ErrorHandler {
                     e.printStackTrace();
                 }
             }
+             */
         }
         JniUtil.hardCrash();
     }
