@@ -1,0 +1,65 @@
+Processing 4 files
+Start Processing: com/cout970/rocketdrm/ErrorHandler.java
+Import: com.cout970.rocketdrm.JniUtil
+Import: java.io.ByteArrayOutputStream
+Import: java.io.PrintStream
+Import: java.util.List
+Import: java.util.Map
+Import: java.util.function.Consumer
+Import: javax.swing.JOptionPane
+Import: net.minecraft.launchwrapper.Launch
+Import: org.apache.commons.lang3.text.WordUtils
+End  Processing: com/cout970/rocketdrm/ErrorHandler.java
+
+Start Processing: com/cout970/rocketdrm/JniUtil.java
+FOUND CONSTR method com/cout970/rocketdrm/JniUtil/JniUtil ()V com/cout970/rocketdrm/JniUtil
+New Key: class java/lang/invoke/MethodHandles
+Import: com.sun.jna.Native
+Import: java.io.File
+Import: java.lang.invoke.CallSite
+Import: java.lang.invoke.MethodHandles
+Import: java.lang.invoke.MethodType
+Import: java.lang.reflect.Field
+Import: java.lang.reflect.InvocationTargetException
+End  Processing: com/cout970/rocketdrm/JniUtil.java
+
+Start Processing: com/cout970/rocketdrm/ReplaceClassLoader.java
+FOUND CONSTR method com/cout970/rocketdrm/ReplaceClassLoader/ReplaceClassLoader (Ljava/net/URLClassLoader;Ljava/util/Map;)V com/cout970/rocketdrm/ReplaceClassLoader
+Import: com.cout970.rocketdrm.JniUtil
+Import: java.lang.reflect.Field
+Import: java.lang.reflect.InvocationTargetException
+Import: java.lang.reflect.Method
+Import: java.net.URLClassLoader
+Import: java.util.Map
+Import: net.minecraft.launchwrapper.Launch
+Import: net.minecraft.launchwrapper.LaunchClassLoader
+End  Processing: com/cout970/rocketdrm/ReplaceClassLoader.java
+
+Start Processing: com/cout970/rocketdrm/RocketDRM.java
+New Key: class net/minecraftforge/fml/relauncher/IFMLLoadingPlugin
+New Key: class net/minecraftforge/fml/relauncher/IFMLLoadingPlugin
+New Key: class net/minecraftforge/fml/relauncher/IFMLLoadingPlugin
+New Key: class net/minecraftforge/fml/relauncher/IFMLLoadingPlugin
+FOUND CONSTR method com/cout970/rocketdrm/RocketDRM/RocketDRM ()V com/cout970/rocketdrm/RocketDRM
+Import: com.cout970.rocketdrm.ErrorHandler
+Import: com.cout970.rocketdrm.JniUtil
+Import: com.cout970.rocketdrm.ReplaceClassLoader
+Import: java.io.File
+Import: java.lang.reflect.InvocationTargetException
+Import: java.lang.reflect.Method
+Import: java.net.MalformedURLException
+Import: java.net.URL
+Import: java.net.URLClassLoader
+Import: java.util.Arrays
+Import: java.util.HashMap
+Import: java.util.List
+Import: java.util.Map
+Import: java.util.Objects
+Import: java.util.jar.Attributes
+Import: java.util.jar.JarFile
+Import: net.minecraft.launchwrapper.Launch
+Import: net.minecraftforge.fml.relauncher.IFMLLoadingPlugin
+Import: org.apache.logging.log4j.LogManager
+Import: org.apache.logging.log4j.Logger
+End  Processing: com/cout970/rocketdrm/RocketDRM.java
+

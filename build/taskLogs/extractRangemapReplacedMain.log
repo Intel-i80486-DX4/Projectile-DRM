@@ -1,0 +1,16 @@
+Unsupposrted library path: /Users/imac/Downloads/Projectile-DRM/build/classes/java/api
+Unsupposrted library path: /Users/imac/Downloads/Projectile-DRM/build/resources/api
+Symbol range map extraction starting
+Processing 4 files
+startProcessing "com/cout970/rocketdrm/ErrorHandler.java" md5: 07d7769c158fb295557db95a8fa1a507
+endProcessing "com/cout970/rocketdrm/ErrorHandler.java"
+
+startProcessing "com/cout970/rocketdrm/JniUtil.java" md5: d8faf54f75b91f4dfdde5673b214b961
+endProcessing "com/cout970/rocketdrm/JniUtil.java"
+
+startProcessing "com/cout970/rocketdrm/ReplaceClassLoader.java" md5: 9df657a482685b948fd4c1b0f47c3d2d
+endProcessing "com/cout970/rocketdrm/ReplaceClassLoader.java"
+
+startProcessing "com/cout970/rocketdrm/RocketDRM.java" md5: c578ec41683aaa27b5c922ea4fed6f37
+endProcessing "com/cout970/rocketdrm/RocketDRM.java"
+

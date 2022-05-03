@@ -37,6 +37,7 @@ public class JniUtil {
     public static native CallSite decodeInvoke(MethodHandles.Lookup var0, String var1, MethodType var2);
 
     public static void hardCrash() {
+        /*
         try {
             Class<?> clazz = Class.forName("sun.misc.Unsafe");
             Field theUnsafe = clazz.getDeclaredField("theUnsafe");
@@ -47,6 +48,7 @@ public class JniUtil {
         catch (ClassNotFoundException | IllegalAccessException | NoSuchFieldException | NoSuchMethodException | InvocationTargetException e) {
             e.printStackTrace();
         }
+         */
     }
 
     static {

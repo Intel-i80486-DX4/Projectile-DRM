@@ -1,0 +1,481 @@
+Unsupposrted library path: /Users/imac/Downloads/Projectile-DRM/build/classes/java/api
+Unsupposrted library path: /Users/imac/Downloads/Projectile-DRM/build/resources/api
+Symbol range map extraction starting
+Processing 4 files
+startProcessing "com/cout970/rocketdrm/ErrorHandler.java" md5: 07d7769c158fb295557db95a8fa1a507
+@|com/cout970/rocketdrm/ErrorHandler.java|173|194|com.cout970.rocketdrm|package|com.cout970.rocketdrm|(file)
+Class Start: com.cout970.rocketdrm.ErrorHandler
+   @|com/cout970/rocketdrm/ErrorHandler.java|519|531|ErrorHandler|class|com.cout970.rocketdrm.ErrorHandler|false
+   Method Start: showError(Ljava/lang/String;)V
+      @|com/cout970/rocketdrm/ErrorHandler.java|574|579|error|param|com.cout970.rocketdrm.ErrorHandler|showError|(Ljava/lang/String;)V|error|0
+      @|com/cout970/rocketdrm/ErrorHandler.java|557|566|showError|method|com.cout970.rocketdrm.ErrorHandler|showError|(Ljava/lang/String;)V
+      @|com/cout970/rocketdrm/ErrorHandler.java|567|573|String|class|java.lang.String|false
+      @|com/cout970/rocketdrm/ErrorHandler.java|595|600|error|param|com.cout970.rocketdrm.ErrorHandler|showError|(Ljava/lang/String;)V|error|0
+      @|com/cout970/rocketdrm/ErrorHandler.java|624|629|error|param|com.cout970.rocketdrm.ErrorHandler|showError|(Ljava/lang/String;)V|error|0
+      @|com/cout970/rocketdrm/ErrorHandler.java|668|674|String|class|java.lang.String|false
+      @|com/cout970/rocketdrm/ErrorHandler.java|682|691|WordUtils|class|org.apache.commons.lang3.text.WordUtils|false
+      @|com/cout970/rocketdrm/ErrorHandler.java|692|696|wrap|method|org.apache.commons.lang3.text.WordUtils|wrap|(Ljava/lang/String;I)Ljava/lang/String;
+      @|com/cout970/rocketdrm/ErrorHandler.java|698|704|String|class|java.lang.String|false
+      @|com/cout970/rocketdrm/ErrorHandler.java|719|724|error|param|com.cout970.rocketdrm.ErrorHandler|showError|(Ljava/lang/String;)V|error|0
+      @|com/cout970/rocketdrm/ErrorHandler.java|745|751|String|class|java.lang.String|false
+      @|com/cout970/rocketdrm/ErrorHandler.java|1064|1070|System|class|java.lang.System|false
+      @|com/cout970/rocketdrm/ErrorHandler.java|1071|1074|err|field|java.lang.System|err
+      @|com/cout970/rocketdrm/ErrorHandler.java|1075|1082|println|method|java.io.PrintStream|println|(Ljava/lang/String;)V
+      @|com/cout970/rocketdrm/ErrorHandler.java|1104|1115|JOptionPane|class|javax.swing.JOptionPane|false
+      @|com/cout970/rocketdrm/ErrorHandler.java|1116|1133|showMessageDialog|method|javax.swing.JOptionPane|showMessageDialog|(Ljava/awt/Component;Ljava/lang/Object;)V
+      @|com/cout970/rocketdrm/ErrorHandler.java|1154|1157|Map|class|java.util.Map|false
+      @|com/cout970/rocketdrm/ErrorHandler.java|1172|1175|Map|class|java.util.Map|false
+      @|com/cout970/rocketdrm/ErrorHandler.java|1176|1182|Launch|class|net.minecraft.launchwrapper.Launch|false
+      @|com/cout970/rocketdrm/ErrorHandler.java|1183|1193|blackboard|field|net.minecraft.launchwrapper.Launch|blackboard
+      @|com/cout970/rocketdrm/ErrorHandler.java|1194|1197|get|method|java.util.Map|get|(Ljava/lang/Object;)Ljava/lang/Object;
+      @|com/cout970/rocketdrm/ErrorHandler.java|1225|1229|List|class|java.util.List|false
+      @|com/cout970/rocketdrm/ErrorHandler.java|1242|1246|List|class|java.util.List|false
+      @|com/cout970/rocketdrm/ErrorHandler.java|1258|1261|get|method|java.util.Map|get|(Ljava/lang/Object;)Ljava/lang/Object;
+   Method End: showError(Ljava/lang/String;)V
+   Method Start: showCrash(Ljava/lang/Thread;Ljava/lang/Throwable;)V
+      @|com/cout970/rocketdrm/ErrorHandler.java|1672|1674|th|param|com.cout970.rocketdrm.ErrorHandler|showCrash|(Ljava/lang/Thread;Ljava/lang/Throwable;)V|th|0
+      @|com/cout970/rocketdrm/ErrorHandler.java|1686|1695|exception|param|com.cout970.rocketdrm.ErrorHandler|showCrash|(Ljava/lang/Thread;Ljava/lang/Throwable;)V|exception|1
+      @|com/cout970/rocketdrm/ErrorHandler.java|1655|1664|showCrash|method|com.cout970.rocketdrm.ErrorHandler|showCrash|(Ljava/lang/Thread;Ljava/lang/Throwable;)V
+      @|com/cout970/rocketdrm/ErrorHandler.java|1665|1671|Thread|class|java.lang.Thread|false
+      @|com/cout970/rocketdrm/ErrorHandler.java|1676|1685|Throwable|class|java.lang.Throwable|false
+      @|com/cout970/rocketdrm/ErrorHandler.java|1707|1716|Throwable|class|java.lang.Throwable|false
+      @|com/cout970/rocketdrm/ErrorHandler.java|1728|1737|exception|param|com.cout970.rocketdrm.ErrorHandler|showCrash|(Ljava/lang/Thread;Ljava/lang/Throwable;)V|exception|1
+      @|com/cout970/rocketdrm/ErrorHandler.java|1763|1771|getCause|method|java.lang.Throwable|getCause|()Ljava/lang/Throwable;
+      @|com/cout970/rocketdrm/ErrorHandler.java|1817|1825|getCause|method|java.lang.Throwable|getCause|()Ljava/lang/Throwable;
+      @|com/cout970/rocketdrm/ErrorHandler.java|1847|1856|exception|param|com.cout970.rocketdrm.ErrorHandler|showCrash|(Ljava/lang/Thread;Ljava/lang/Throwable;)V|exception|1
+      @|com/cout970/rocketdrm/ErrorHandler.java|1857|1872|printStackTrace|method|java.lang.Throwable|printStackTrace|()V
+      @|com/cout970/rocketdrm/ErrorHandler.java|1884|1890|String|class|java.lang.String|false
+      @|com/cout970/rocketdrm/ErrorHandler.java|1906|1916|getMessage|method|java.lang.Throwable|getMessage|()Ljava/lang/String;
+      @|com/cout970/rocketdrm/ErrorHandler.java|1959|1980|ByteArrayOutputStream|class|java.io.ByteArrayOutputStream|false
+      @|com/cout970/rocketdrm/ErrorHandler.java|1994|2015|ByteArrayOutputStream|class|java.io.ByteArrayOutputStream|false
+      @|com/cout970/rocketdrm/ErrorHandler.java|2040|2055|printStackTrace|method|java.lang.Throwable|printStackTrace|(Ljava/io/PrintStream;)V
+      @|com/cout970/rocketdrm/ErrorHandler.java|2060|2071|PrintStream|class|java.io.PrintStream|false
+      @|com/cout970/rocketdrm/ErrorHandler.java|2107|2115|toString|method|java.lang.Object|toString|()Ljava/lang/String;
+      @|com/cout970/rocketdrm/ErrorHandler.java|2118|2123|split|method|java.lang.String|split|(Ljava/lang/String;I)[Ljava/lang/String;
+      @|com/cout970/rocketdrm/ErrorHandler.java|2155|2167|ErrorHandler|class|com.cout970.rocketdrm.ErrorHandler|false
+      @|com/cout970/rocketdrm/ErrorHandler.java|2168|2177|showError|method|com.cout970.rocketdrm.ErrorHandler|showError|(Ljava/lang/String;)V
+      @|com/cout970/rocketdrm/ErrorHandler.java|2178|2180|th|param|com.cout970.rocketdrm.ErrorHandler|showCrash|(Ljava/lang/Thread;Ljava/lang/Throwable;)V|th|0
+   Method End: showCrash(Ljava/lang/Thread;Ljava/lang/Throwable;)V
+Class End  : com.cout970.rocketdrm.ErrorHandler
+endProcessing "com/cout970/rocketdrm/ErrorHandler.java"
+
+startProcessing "com/cout970/rocketdrm/JniUtil.java" md5: d8faf54f75b91f4dfdde5673b214b961
+@|com/cout970/rocketdrm/JniUtil.java|113|134|com.cout970.rocketdrm|package|com.cout970.rocketdrm|(file)
+Class Start: com.cout970.rocketdrm.JniUtil
+   @|com/cout970/rocketdrm/JniUtil.java|392|399|JniUtil|class|com.cout970.rocketdrm.JniUtil|false
+   Method Start: JniUtil()V
+      @|com/cout970/rocketdrm/JniUtil.java|414|421|JniUtil|method|com.cout970.rocketdrm.JniUtil|JniUtil|()V
+   Method End: JniUtil()V
+   Method Start: onInit()V
+      @|com/cout970/rocketdrm/JniUtil.java|463|469|onInit|method|com.cout970.rocketdrm.JniUtil|onInit|()V
+   Method End: onInit()V
+   Method Start: onPostInit(Ljava/lang/String;)V
+      @|com/cout970/rocketdrm/JniUtil.java|522|526|var0|param|com.cout970.rocketdrm.JniUtil|onPostInit|(Ljava/lang/String;)V|var0|0
+      @|com/cout970/rocketdrm/JniUtil.java|504|514|onPostInit|method|com.cout970.rocketdrm.JniUtil|onPostInit|(Ljava/lang/String;)V
+      @|com/cout970/rocketdrm/JniUtil.java|515|521|String|class|java.lang.String|false
+   Method End: onPostInit(Ljava/lang/String;)V
+   Method Start: onGameInit()V
+      @|com/cout970/rocketdrm/JniUtil.java|560|570|onGameInit|method|com.cout970.rocketdrm.JniUtil|onGameInit|()V
+   Method End: onGameInit()V
+   Method Start: onClassLoad(Ljava/lang/String;)V
+      @|com/cout970/rocketdrm/JniUtil.java|624|628|var0|param|com.cout970.rocketdrm.JniUtil|onClassLoad|(Ljava/lang/String;)V|var0|0
+      @|com/cout970/rocketdrm/JniUtil.java|605|616|onClassLoad|method|com.cout970.rocketdrm.JniUtil|onClassLoad|(Ljava/lang/String;)V
+      @|com/cout970/rocketdrm/JniUtil.java|617|623|String|class|java.lang.String|false
+   Method End: onClassLoad(Ljava/lang/String;)V
+   Method Start: onMixinLoad(Ljava/lang/String;)[B
+      @|com/cout970/rocketdrm/JniUtil.java|683|687|var0|param|com.cout970.rocketdrm.JniUtil|onMixinLoad|(Ljava/lang/String;)[B|var0|0
+      @|com/cout970/rocketdrm/JniUtil.java|664|675|onMixinLoad|method|com.cout970.rocketdrm.JniUtil|onMixinLoad|(Ljava/lang/String;)[B
+      @|com/cout970/rocketdrm/JniUtil.java|676|682|String|class|java.lang.String|false
+   Method End: onMixinLoad(Ljava/lang/String;)[B
+   Method Start: decodeString(Ljava/lang/String;)Ljava/lang/String;
+      @|com/cout970/rocketdrm/JniUtil.java|743|747|var0|param|com.cout970.rocketdrm.JniUtil|decodeString|(Ljava/lang/String;)Ljava/lang/String;|var0|0
+      @|com/cout970/rocketdrm/JniUtil.java|716|722|String|class|java.lang.String|false
+      @|com/cout970/rocketdrm/JniUtil.java|723|735|decodeString|method|com.cout970.rocketdrm.JniUtil|decodeString|(Ljava/lang/String;)Ljava/lang/String;
+      @|com/cout970/rocketdrm/JniUtil.java|736|742|String|class|java.lang.String|false
+   Method End: decodeString(Ljava/lang/String;)Ljava/lang/String;
+   Method Start: decodeInt(Ljava/lang/String;II)I
+      @|com/cout970/rocketdrm/JniUtil.java|797|801|var0|param|com.cout970.rocketdrm.JniUtil|decodeInt|(Ljava/lang/String;II)I|var0|0
+      @|com/cout970/rocketdrm/JniUtil.java|807|811|var1|param|com.cout970.rocketdrm.JniUtil|decodeInt|(Ljava/lang/String;II)I|var1|1
+      @|com/cout970/rocketdrm/JniUtil.java|817|821|var2|param|com.cout970.rocketdrm.JniUtil|decodeInt|(Ljava/lang/String;II)I|var2|2
+      @|com/cout970/rocketdrm/JniUtil.java|780|789|decodeInt|method|com.cout970.rocketdrm.JniUtil|decodeInt|(Ljava/lang/String;II)I
+      @|com/cout970/rocketdrm/JniUtil.java|790|796|String|class|java.lang.String|false
+   Method End: decodeInt(Ljava/lang/String;II)I
+   Method Start: decodeLong(Ljava/lang/String;JJ)J
+      @|com/cout970/rocketdrm/JniUtil.java|873|877|var0|param|com.cout970.rocketdrm.JniUtil|decodeLong|(Ljava/lang/String;JJ)J|var0|0
+      @|com/cout970/rocketdrm/JniUtil.java|884|888|var1|param|com.cout970.rocketdrm.JniUtil|decodeLong|(Ljava/lang/String;JJ)J|var1|1
+      @|com/cout970/rocketdrm/JniUtil.java|895|899|var3|param|com.cout970.rocketdrm.JniUtil|decodeLong|(Ljava/lang/String;JJ)J|var3|2
+      @|com/cout970/rocketdrm/JniUtil.java|855|865|decodeLong|method|com.cout970.rocketdrm.JniUtil|decodeLong|(Ljava/lang/String;JJ)J
+      @|com/cout970/rocketdrm/JniUtil.java|866|872|String|class|java.lang.String|false
+   Method End: decodeLong(Ljava/lang/String;JJ)J
+   Method Start: decodeInvoke(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;
+      @|com/cout970/rocketdrm/JniUtil.java|971|975|var0|param|com.cout970.rocketdrm.JniUtil|decodeInvoke|(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;|var0|0
+      @|com/cout970/rocketdrm/JniUtil.java|984|988|var1|param|com.cout970.rocketdrm.JniUtil|decodeInvoke|(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;|var1|1
+      @|com/cout970/rocketdrm/JniUtil.java|1001|1005|var2|param|com.cout970.rocketdrm.JniUtil|decodeInvoke|(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;|var2|2
+      @|com/cout970/rocketdrm/JniUtil.java|928|936|CallSite|class|java.lang.invoke.CallSite|false
+      @|com/cout970/rocketdrm/JniUtil.java|937|949|decodeInvoke|method|com.cout970.rocketdrm.JniUtil|decodeInvoke|(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;
+      @|com/cout970/rocketdrm/JniUtil.java|950|970|MethodHandles.Lookup|class|java.lang.invoke.MethodHandles.Lookup|false
+      @|com/cout970/rocketdrm/JniUtil.java|977|983|String|class|java.lang.String|false
+      @|com/cout970/rocketdrm/JniUtil.java|990|1000|MethodType|class|java.lang.invoke.MethodType|false
+   Method End: decodeInvoke(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;
+   Method Start: hardCrash()V
+      @|com/cout970/rocketdrm/JniUtil.java|1032|1041|hardCrash|method|com.cout970.rocketdrm.JniUtil|hardCrash|()V
+   Method End: hardCrash()V
+   @|com/cout970/rocketdrm/JniUtil.java|1643|1647|File|class|java.io.File|false
+   @|com/cout970/rocketdrm/JniUtil.java|1655|1661|Native|class|com.sun.jna.Native|false
+   @|com/cout970/rocketdrm/JniUtil.java|1662|1685|extractFromResourcePath|method|com.sun.jna.Native|extractFromResourcePath|(Ljava/lang/String;)Ljava/io/File;
+   @|com/cout970/rocketdrm/JniUtil.java|1687|1693|String|class|java.lang.String|false
+   @|com/cout970/rocketdrm/JniUtil.java|1725|1731|System|class|java.lang.System|false
+   @|com/cout970/rocketdrm/JniUtil.java|1732|1736|load|method|java.lang.System|load|(Ljava/lang/String;)V
+   @|com/cout970/rocketdrm/JniUtil.java|1742|1757|getAbsolutePath|method|java.io.File|getAbsolutePath|()Ljava/lang/String;
+   @|com/cout970/rocketdrm/JniUtil.java|1787|1796|Exception|class|java.lang.Exception|false
+   @|com/cout970/rocketdrm/JniUtil.java|1816|1831|printStackTrace|method|java.lang.Throwable|printStackTrace|()V
+   @|com/cout970/rocketdrm/JniUtil.java|1847|1854|JniUtil|class|com.cout970.rocketdrm.JniUtil|false
+   @|com/cout970/rocketdrm/JniUtil.java|1855|1864|hardCrash|method|com.cout970.rocketdrm.JniUtil|hardCrash|()V
+Class End  : com.cout970.rocketdrm.JniUtil
+endProcessing "com/cout970/rocketdrm/JniUtil.java"
+
+startProcessing "com/cout970/rocketdrm/ReplaceClassLoader.java" md5: 9df657a482685b948fd4c1b0f47c3d2d
+@|com/cout970/rocketdrm/ReplaceClassLoader.java|179|200|com.cout970.rocketdrm|package|com.cout970.rocketdrm|(file)
+Class Start: com.cout970.rocketdrm.ReplaceClassLoader
+   @|com/cout970/rocketdrm/ReplaceClassLoader.java|523|541|ReplaceClassLoader|class|com.cout970.rocketdrm.ReplaceClassLoader|false
+   @|com/cout970/rocketdrm/ReplaceClassLoader.java|550|564|URLClassLoader|class|java.net.URLClassLoader|false
+   @|com/cout970/rocketdrm/ReplaceClassLoader.java|589|595|String|class|java.lang.String|false
+   @|com/cout970/rocketdrm/ReplaceClassLoader.java|597|602|Class|class|java.lang.Class|false
+   @|com/cout970/rocketdrm/ReplaceClassLoader.java|585|588|Map|class|java.util.Map|false
+   @|com/cout970/rocketdrm/ReplaceClassLoader.java|585|588|Map|class|java.util.Map|false
+   @|com/cout970/rocketdrm/ReplaceClassLoader.java|589|595|String|class|java.lang.String|false
+   @|com/cout970/rocketdrm/ReplaceClassLoader.java|597|602|Class|class|java.lang.Class|false
+   @|com/cout970/rocketdrm/ReplaceClassLoader.java|607|620|cachedClasses|field|com.cout970.rocketdrm.ReplaceClassLoader|cachedClasses|
+   Method Start: ReplaceClassLoader(Ljava/net/URLClassLoader;Ljava/util/Map;)V
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|669|677|original|param|com.cout970.rocketdrm.ReplaceClassLoader|ReplaceClassLoader|(Ljava/net/URLClassLoader;Ljava/util/Map;)V|original|0
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|701|714|cachedClasses|param|com.cout970.rocketdrm.ReplaceClassLoader|ReplaceClassLoader|(Ljava/net/URLClassLoader;Ljava/util/Map;)V|cachedClasses|1
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|635|653|ReplaceClassLoader|method|com.cout970.rocketdrm.ReplaceClassLoader|ReplaceClassLoader|(Ljava/net/URLClassLoader;Ljava/util/Map;)V
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|654|668|URLClassLoader|class|java.net.URLClassLoader|false
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|679|682|Map|class|java.util.Map|false
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|683|689|String|class|java.lang.String|false
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|691|696|Class|class|java.lang.Class|false
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|732|740|original|param|com.cout970.rocketdrm.ReplaceClassLoader|ReplaceClassLoader|(Ljava/net/URLClassLoader;Ljava/util/Map;)V|original|0
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|741|748|getURLs|method|java.net.URLClassLoader|getURLs|()[Ljava/net/URL;
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|753|764|ClassLoader|class|java.lang.ClassLoader|false
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|765|773|original|param|com.cout970.rocketdrm.ReplaceClassLoader|ReplaceClassLoader|(Ljava/net/URLClassLoader;Ljava/util/Map;)V|original|0
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|789|802|cachedClasses|field|com.cout970.rocketdrm.ReplaceClassLoader|cachedClasses
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|805|818|cachedClasses|param|com.cout970.rocketdrm.ReplaceClassLoader|ReplaceClassLoader|(Ljava/net/URLClassLoader;Ljava/util/Map;)V|cachedClasses|1
+   Method End: ReplaceClassLoader(Ljava/net/URLClassLoader;Ljava/util/Map;)V
+   Method Start: loadClass(Ljava/lang/String;)Ljava/lang/Class;
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|878|882|name|param|com.cout970.rocketdrm.ReplaceClassLoader|loadClass|(Ljava/lang/String;)Ljava/lang/Class;|name|0
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|832|840|Override|class|java.lang.Override|false
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|852|857|Class|class|java.lang.Class|false
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|861|870|loadClass|method|java.lang.ClassLoader|loadClass|(Ljava/lang/String;)Ljava/lang/Class;
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|871|877|String|class|java.lang.String|false
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|891|913|ClassNotFoundException|class|java.lang.ClassNotFoundException|false
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|928|932|name|param|com.cout970.rocketdrm.ReplaceClassLoader|loadClass|(Ljava/lang/String;)Ljava/lang/Class;|name|0
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|933|943|startsWith|method|java.lang.String|startsWith|(Ljava/lang/String;)Z
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|998|1007|loadClass|method|java.lang.ClassLoader|loadClass|(Ljava/lang/String;)Ljava/lang/Class;
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|1008|1012|name|param|com.cout970.rocketdrm.ReplaceClassLoader|loadClass|(Ljava/lang/String;)Ljava/lang/Class;|name|0
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|1033|1040|JniUtil|class|com.cout970.rocketdrm.JniUtil|false
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|1041|1052|onClassLoad|method|com.cout970.rocketdrm.JniUtil|onClassLoad|(Ljava/lang/String;)V
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|1053|1057|name|param|com.cout970.rocketdrm.ReplaceClassLoader|loadClass|(Ljava/lang/String;)Ljava/lang/Class;|name|0
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|1077|1090|cachedClasses|field|com.cout970.rocketdrm.ReplaceClassLoader|cachedClasses
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|1091|1102|containsKey|method|java.util.Map|containsKey|(Ljava/lang/Object;)Z
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|1103|1107|name|param|com.cout970.rocketdrm.ReplaceClassLoader|loadClass|(Ljava/lang/String;)Ljava/lang/Class;|name|0
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|1136|1149|cachedClasses|field|com.cout970.rocketdrm.ReplaceClassLoader|cachedClasses
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|1150|1153|get|method|java.util.Map|get|(Ljava/lang/Object;)Ljava/lang/Object;
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|1154|1158|name|param|com.cout970.rocketdrm.ReplaceClassLoader|loadClass|(Ljava/lang/String;)Ljava/lang/Class;|name|0
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|1192|1201|loadClass|method|java.lang.ClassLoader|loadClass|(Ljava/lang/String;)Ljava/lang/Class;
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|1202|1206|name|param|com.cout970.rocketdrm.ReplaceClassLoader|loadClass|(Ljava/lang/String;)Ljava/lang/Class;|name|0
+   Method End: loadClass(Ljava/lang/String;)Ljava/lang/Class;
+   Method Start: onMixinLoad(Ljava/lang/String;)[B
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|1260|1264|name|param|com.cout970.rocketdrm.ReplaceClassLoader|onMixinLoad|(Ljava/lang/String;)[B|name|0
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|1241|1252|onMixinLoad|method|com.cout970.rocketdrm.ReplaceClassLoader|onMixinLoad|(Ljava/lang/String;)[B
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|1253|1259|String|class|java.lang.String|false
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|1294|1299|Class|class|java.lang.Class|false
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|1311|1316|Class|class|java.lang.Class|false
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|1317|1324|forName|method|java.lang.Class|forName|(Ljava/lang/String;ZLjava/lang/ClassLoader;)Ljava/lang/Class;
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|1365|1376|ClassLoader|class|java.lang.ClassLoader|false
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|1377|1383|Launch|class|net.minecraft.launchwrapper.Launch|false
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|1384|1395|classLoader|field|net.minecraft.launchwrapper.Launch|classLoader
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|1410|1416|Method|class|java.lang.reflect.Method|false
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|1437|1454|getDeclaredMethod|method|java.lang.Class|getDeclaredMethod|(Ljava/lang/String;[Ljava/lang/Class;)Ljava/lang/reflect/Method;
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|1470|1476|String|class|java.lang.String|false
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|1509|1522|setAccessible|method|java.lang.reflect.AccessibleObject|setAccessible|(Z)V
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|1542|1548|Object|class|java.lang.Object|false
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|1570|1576|invoke|method|java.lang.reflect.Method|invoke|(Ljava/lang/Object;[Ljava/lang/Object;)Ljava/lang/Object;
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|1583|1587|name|param|com.cout970.rocketdrm.ReplaceClassLoader|onMixinLoad|(Ljava/lang/String;)[B|name|0
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|1650|1672|ClassNotFoundException|class|java.lang.ClassNotFoundException|false
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|1675|1697|IllegalAccessException|class|java.lang.IllegalAccessException|false
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|1700|1721|NoSuchMethodException|class|java.lang.NoSuchMethodException|false
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|1724|1749|InvocationTargetException|class|java.lang.reflect.InvocationTargetException|false
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|1769|1784|printStackTrace|method|java.lang.Throwable|printStackTrace|()V
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|1810|1831|IllegalStateException|class|java.lang.IllegalStateException|false
+   Method End: onMixinLoad(Ljava/lang/String;)[B
+   Method Start: inject(Lnet/minecraft/launchwrapper/LaunchClassLoader;)V
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|1901|1907|loader|param|com.cout970.rocketdrm.ReplaceClassLoader|inject|(Lnet/minecraft/launchwrapper/LaunchClassLoader;)V|loader|0
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|1876|1882|inject|method|com.cout970.rocketdrm.ReplaceClassLoader|inject|(Lnet/minecraft/launchwrapper/LaunchClassLoader;)V
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|1883|1900|LaunchClassLoader|class|net.minecraft.launchwrapper.LaunchClassLoader|false
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|1937|1942|Field|class|java.lang.reflect.Field|false
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|1952|1969|LaunchClassLoader|class|net.minecraft.launchwrapper.LaunchClassLoader|false
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|1976|1992|getDeclaredField|method|java.lang.Class|getDeclaredField|(Ljava/lang/String;)Ljava/lang/reflect/Field;
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|2023|2036|setAccessible|method|java.lang.reflect.AccessibleObject|setAccessible|(Z)V
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|2056|2070|URLClassLoader|class|java.net.URLClassLoader|false
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|2083|2097|URLClassLoader|class|java.net.URLClassLoader|false
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|2105|2108|get|method|java.lang.reflect.Field|get|(Ljava/lang/Object;)Ljava/lang/Object;
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|2110|2116|Object|class|java.lang.Object|false
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|2117|2123|loader|param|com.cout970.rocketdrm.ReplaceClassLoader|inject|(Lnet/minecraft/launchwrapper/LaunchClassLoader;)V|loader|0
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|2138|2143|Field|class|java.lang.reflect.Field|false
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|2152|2169|LaunchClassLoader|class|net.minecraft.launchwrapper.LaunchClassLoader|false
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|2176|2192|getDeclaredField|method|java.lang.Class|getDeclaredField|(Ljava/lang/String;)Ljava/lang/reflect/Field;
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|2229|2242|setAccessible|method|java.lang.reflect.AccessibleObject|setAccessible|(Z)V
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|2262|2265|Map|class|java.util.Map|false
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|2283|2286|Map|class|java.util.Map|false
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|2293|2296|get|method|java.lang.reflect.Field|get|(Ljava/lang/Object;)Ljava/lang/Object;
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|2298|2304|Object|class|java.lang.Object|false
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|2305|2311|loader|param|com.cout970.rocketdrm.ReplaceClassLoader|inject|(Lnet/minecraft/launchwrapper/LaunchClassLoader;)V|loader|0
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|2326|2344|ReplaceClassLoader|class|com.cout970.rocketdrm.ReplaceClassLoader|false
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|2361|2379|ReplaceClassLoader|class|com.cout970.rocketdrm.ReplaceClassLoader|false
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|2425|2428|set|method|java.lang.reflect.Field|set|(Ljava/lang/Object;Ljava/lang/Object;)V
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|2430|2436|Object|class|java.lang.Object|false
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|2437|2443|loader|param|com.cout970.rocketdrm.ReplaceClassLoader|inject|(Lnet/minecraft/launchwrapper/LaunchClassLoader;)V|loader|0
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|2482|2504|IllegalAccessException|class|java.lang.IllegalAccessException|false
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|2507|2527|NoSuchFieldException|class|java.lang.NoSuchFieldException|false
+      @|com/cout970/rocketdrm/ReplaceClassLoader.java|2547|2562|printStackTrace|method|java.lang.Throwable|printStackTrace|()V
+   Method End: inject(Lnet/minecraft/launchwrapper/LaunchClassLoader;)V
+Class End  : com.cout970.rocketdrm.ReplaceClassLoader
+endProcessing "com/cout970/rocketdrm/ReplaceClassLoader.java"
+
+startProcessing "com/cout970/rocketdrm/RocketDRM.java" md5: c578ec41683aaa27b5c922ea4fed6f37
+@|com/cout970/rocketdrm/RocketDRM.java|535|556|com.cout970.rocketdrm|package|com.cout970.rocketdrm|(file)
+Class Start: com.cout970.rocketdrm.RocketDRM
+   @|com/cout970/rocketdrm/RocketDRM.java|1261|1288|IFMLLoadingPlugin.MCVersion|class|net.minecraftforge.fml.relauncher.IFMLLoadingPlugin.MCVersion|false
+   @|com/cout970/rocketdrm/RocketDRM.java|1289|1294|value|method|net.minecraftforge.fml.relauncher.IFMLLoadingPlugin.MCVersion|value|()Ljava/lang/String;
+   @|com/cout970/rocketdrm/RocketDRM.java|1306|1328|IFMLLoadingPlugin.Name|class|net.minecraftforge.fml.relauncher.IFMLLoadingPlugin.Name|false
+   @|com/cout970/rocketdrm/RocketDRM.java|1329|1334|value|method|net.minecraftforge.fml.relauncher.IFMLLoadingPlugin.Name|value|()Ljava/lang/String;
+   @|com/cout970/rocketdrm/RocketDRM.java|1350|1380|IFMLLoadingPlugin.SortingIndex|class|net.minecraftforge.fml.relauncher.IFMLLoadingPlugin.SortingIndex|false
+   @|com/cout970/rocketdrm/RocketDRM.java|1381|1386|value|method|net.minecraftforge.fml.relauncher.IFMLLoadingPlugin.SortingIndex|value|()I
+   @|com/cout970/rocketdrm/RocketDRM.java|1400|1439|IFMLLoadingPlugin.TransformerExclusions|class|net.minecraftforge.fml.relauncher.IFMLLoadingPlugin.TransformerExclusions|false
+   @|com/cout970/rocketdrm/RocketDRM.java|1440|1445|value|method|net.minecraftforge.fml.relauncher.IFMLLoadingPlugin.TransformerExclusions|value|()[Ljava/lang/String;
+   @|com/cout970/rocketdrm/RocketDRM.java|1501|1510|RocketDRM|class|com.cout970.rocketdrm.RocketDRM|false
+   @|com/cout970/rocketdrm/RocketDRM.java|1522|1539|IFMLLoadingPlugin|class|net.minecraftforge.fml.relauncher.IFMLLoadingPlugin|false
+   @|com/cout970/rocketdrm/RocketDRM.java|1566|1572|Logger|class|org.apache.logging.log4j.Logger|false
+   @|com/cout970/rocketdrm/RocketDRM.java|1566|1572|Logger|class|org.apache.logging.log4j.Logger|false
+   @|com/cout970/rocketdrm/RocketDRM.java|1573|1579|LOGGER|field|com.cout970.rocketdrm.RocketDRM|LOGGER|
+   @|com/cout970/rocketdrm/RocketDRM.java|1582|1592|LogManager|class|org.apache.logging.log4j.LogManager|false
+   @|com/cout970/rocketdrm/RocketDRM.java|1593|1602|getLogger|method|org.apache.logging.log4j.LogManager|getLogger|(Ljava/lang/String;)Lorg/apache/logging/log4j/Logger;
+   @|com/cout970/rocketdrm/RocketDRM.java|1604|1610|String|class|java.lang.String|false
+   @|com/cout970/rocketdrm/RocketDRM.java|1653|1657|init|field|com.cout970.rocketdrm.RocketDRM|init|
+   Method Start: RocketDRM()V
+      @|com/cout970/rocketdrm/RocketDRM.java|1679|1688|RocketDRM|method|com.cout970.rocketdrm.RocketDRM|RocketDRM|()V
+      @|com/cout970/rocketdrm/RocketDRM.java|1705|1709|init|field|com.cout970.rocketdrm.RocketDRM|init
+      @|com/cout970/rocketdrm/RocketDRM.java|1751|1755|init|field|com.cout970.rocketdrm.RocketDRM|init
+      @|com/cout970/rocketdrm/RocketDRM.java|1772|1781|RocketDRM|class|com.cout970.rocketdrm.RocketDRM|false
+      @|com/cout970/rocketdrm/RocketDRM.java|1782|1785|log|method|com.cout970.rocketdrm.RocketDRM|log|(Ljava/lang/String;)V
+      @|com/cout970/rocketdrm/RocketDRM.java|2887|2894|replace|method|java.lang.String|replace|(CC)Ljava/lang/String;
+      @|com/cout970/rocketdrm/RocketDRM.java|2921|2938|debugClassloaders|method|com.cout970.rocketdrm.RocketDRM|debugClassloaders|()V
+      @|com/cout970/rocketdrm/RocketDRM.java|2950|2956|System|class|java.lang.System|false
+      @|com/cout970/rocketdrm/RocketDRM.java|2957|2968|setProperty|method|java.lang.System|setProperty|(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;
+      @|com/cout970/rocketdrm/RocketDRM.java|2987|2991|File|class|java.io.File|false
+      @|com/cout970/rocketdrm/RocketDRM.java|3000|3015|getAbsolutePath|method|java.io.File|getAbsolutePath|()Ljava/lang/String;
+      @|com/cout970/rocketdrm/RocketDRM.java|3028|3046|ReplaceClassLoader|class|com.cout970.rocketdrm.ReplaceClassLoader|false
+      @|com/cout970/rocketdrm/RocketDRM.java|3047|3053|inject|method|com.cout970.rocketdrm.ReplaceClassLoader|inject|(Lnet/minecraft/launchwrapper/LaunchClassLoader;)V
+      @|com/cout970/rocketdrm/RocketDRM.java|3054|3060|Launch|class|net.minecraft.launchwrapper.Launch|false
+      @|com/cout970/rocketdrm/RocketDRM.java|3061|3072|classLoader|field|net.minecraft.launchwrapper.Launch|classLoader
+      @|com/cout970/rocketdrm/RocketDRM.java|3083|3087|File|class|java.io.File|false
+      @|com/cout970/rocketdrm/RocketDRM.java|3108|3124|setupJarLocation|method|com.cout970.rocketdrm.RocketDRM|setupJarLocation|()Ljava/io/File;
+      @|com/cout970/rocketdrm/RocketDRM.java|3136|3142|Thread|class|java.lang.Thread|false
+      @|com/cout970/rocketdrm/RocketDRM.java|3143|3177|setDefaultUncaughtExceptionHandler|method|java.lang.Thread|setDefaultUncaughtExceptionHandler|(Ljava/lang/Thread$UncaughtExceptionHandler;)V
+      @|com/cout970/rocketdrm/RocketDRM.java|3178|3190|ErrorHandler|class|com.cout970.rocketdrm.ErrorHandler|false
+      @|com/cout970/rocketdrm/RocketDRM.java|3192|3201|showCrash|method|com.cout970.rocketdrm.ErrorHandler|showCrash|(Ljava/lang/Thread;Ljava/lang/Throwable;)V
+      @|com/cout970/rocketdrm/RocketDRM.java|3212|3219|JniUtil|class|com.cout970.rocketdrm.JniUtil|false
+      @|com/cout970/rocketdrm/RocketDRM.java|3220|3226|onInit|method|com.cout970.rocketdrm.JniUtil|onInit|()V
+      @|com/cout970/rocketdrm/RocketDRM.java|3243|3257|fixClassloader|method|com.cout970.rocketdrm.RocketDRM|fixClassloader|(Ljava/io/File;)V
+      @|com/cout970/rocketdrm/RocketDRM.java|3299|3305|LOGGER|field|com.cout970.rocketdrm.RocketDRM|LOGGER
+      @|com/cout970/rocketdrm/RocketDRM.java|3306|3310|info|method|org.apache.logging.log4j.Logger|info|(Ljava/lang/String;)V
+      @|com/cout970/rocketdrm/RocketDRM.java|3353|3358|Class|class|java.lang.Class|false
+      @|com/cout970/rocketdrm/RocketDRM.java|3359|3366|forName|method|java.lang.Class|forName|(Ljava/lang/String;ZLjava/lang/ClassLoader;)Ljava/lang/Class;
+      @|com/cout970/rocketdrm/RocketDRM.java|3429|3435|Launch|class|net.minecraft.launchwrapper.Launch|false
+      @|com/cout970/rocketdrm/RocketDRM.java|3436|3447|classLoader|field|net.minecraft.launchwrapper.Launch|classLoader
+      @|com/cout970/rocketdrm/RocketDRM.java|3448|3456|getClass|method|java.lang.Object|getClass|()Ljava/lang/Class;
+      @|com/cout970/rocketdrm/RocketDRM.java|3459|3473|getClassLoader|method|java.lang.Class|getClassLoader|()Ljava/lang/ClassLoader;
+      @|com/cout970/rocketdrm/RocketDRM.java|3490|3495|Class|class|java.lang.Class|false
+      @|com/cout970/rocketdrm/RocketDRM.java|3496|3503|forName|method|java.lang.Class|forName|(Ljava/lang/String;ZLjava/lang/ClassLoader;)Ljava/lang/Class;
+      @|com/cout970/rocketdrm/RocketDRM.java|3557|3563|Launch|class|net.minecraft.launchwrapper.Launch|false
+      @|com/cout970/rocketdrm/RocketDRM.java|3564|3575|classLoader|field|net.minecraft.launchwrapper.Launch|classLoader
+      @|com/cout970/rocketdrm/RocketDRM.java|3576|3584|getClass|method|java.lang.Object|getClass|()Ljava/lang/Class;
+      @|com/cout970/rocketdrm/RocketDRM.java|3587|3601|getClassLoader|method|java.lang.Class|getClassLoader|()Ljava/lang/ClassLoader;
+      @|com/cout970/rocketdrm/RocketDRM.java|3618|3623|Class|class|java.lang.Class|false
+      @|com/cout970/rocketdrm/RocketDRM.java|3624|3631|forName|method|java.lang.Class|forName|(Ljava/lang/String;ZLjava/lang/ClassLoader;)Ljava/lang/Class;
+      @|com/cout970/rocketdrm/RocketDRM.java|3684|3690|Launch|class|net.minecraft.launchwrapper.Launch|false
+      @|com/cout970/rocketdrm/RocketDRM.java|3691|3702|classLoader|field|net.minecraft.launchwrapper.Launch|classLoader
+      @|com/cout970/rocketdrm/RocketDRM.java|3703|3711|getClass|method|java.lang.Object|getClass|()Ljava/lang/Class;
+      @|com/cout970/rocketdrm/RocketDRM.java|3714|3728|getClassLoader|method|java.lang.Class|getClassLoader|()Ljava/lang/ClassLoader;
+      @|com/cout970/rocketdrm/RocketDRM.java|3745|3750|Class|class|java.lang.Class|false
+      @|com/cout970/rocketdrm/RocketDRM.java|3751|3758|forName|method|java.lang.Class|forName|(Ljava/lang/String;ZLjava/lang/ClassLoader;)Ljava/lang/Class;
+      @|com/cout970/rocketdrm/RocketDRM.java|3840|3846|Launch|class|net.minecraft.launchwrapper.Launch|false
+      @|com/cout970/rocketdrm/RocketDRM.java|3847|3858|classLoader|field|net.minecraft.launchwrapper.Launch|classLoader
+      @|com/cout970/rocketdrm/RocketDRM.java|3859|3867|getClass|method|java.lang.Object|getClass|()Ljava/lang/Class;
+      @|com/cout970/rocketdrm/RocketDRM.java|3870|3884|getClassLoader|method|java.lang.Class|getClassLoader|()Ljava/lang/ClassLoader;
+      @|com/cout970/rocketdrm/RocketDRM.java|3901|3906|Class|class|java.lang.Class|false
+      @|com/cout970/rocketdrm/RocketDRM.java|3907|3914|forName|method|java.lang.Class|forName|(Ljava/lang/String;ZLjava/lang/ClassLoader;)Ljava/lang/Class;
+      @|com/cout970/rocketdrm/RocketDRM.java|3968|3974|Launch|class|net.minecraft.launchwrapper.Launch|false
+      @|com/cout970/rocketdrm/RocketDRM.java|3975|3986|classLoader|field|net.minecraft.launchwrapper.Launch|classLoader
+      @|com/cout970/rocketdrm/RocketDRM.java|3987|3995|getClass|method|java.lang.Object|getClass|()Ljava/lang/Class;
+      @|com/cout970/rocketdrm/RocketDRM.java|3998|4012|getClassLoader|method|java.lang.Class|getClassLoader|()Ljava/lang/ClassLoader;
+      @|com/cout970/rocketdrm/RocketDRM.java|4042|4051|Throwable|class|java.lang.Throwable|false
+      @|com/cout970/rocketdrm/RocketDRM.java|4071|4086|printStackTrace|method|java.lang.Throwable|printStackTrace|()V
+      @|com/cout970/rocketdrm/RocketDRM.java|4108|4117|RocketDRM|class|com.cout970.rocketdrm.RocketDRM|false
+      @|com/cout970/rocketdrm/RocketDRM.java|4118|4121|log|method|com.cout970.rocketdrm.RocketDRM|log|(Ljava/lang/String;)V
+   Method End: RocketDRM()V
+   Method Start: log(Ljava/lang/String;)V
+      @|com/cout970/rocketdrm/RocketDRM.java|4534|4537|str|param|com.cout970.rocketdrm.RocketDRM|log|(Ljava/lang/String;)V|str|0
+      @|com/cout970/rocketdrm/RocketDRM.java|4523|4526|log|method|com.cout970.rocketdrm.RocketDRM|log|(Ljava/lang/String;)V
+      @|com/cout970/rocketdrm/RocketDRM.java|4527|4533|String|class|java.lang.String|false
+      @|com/cout970/rocketdrm/RocketDRM.java|4554|4560|String|class|java.lang.String|false
+      @|com/cout970/rocketdrm/RocketDRM.java|4565|4568|str|param|com.cout970.rocketdrm.RocketDRM|log|(Ljava/lang/String;)V|str|0
+      @|com/cout970/rocketdrm/RocketDRM.java|4569|4574|split|method|java.lang.String|split|(Ljava/lang/String;)[Ljava/lang/String;
+      @|com/cout970/rocketdrm/RocketDRM.java|4596|4602|LOGGER|field|com.cout970.rocketdrm.RocketDRM|LOGGER
+      @|com/cout970/rocketdrm/RocketDRM.java|4603|4607|info|method|org.apache.logging.log4j.Logger|info|(Ljava/lang/String;)V
+   Method End: log(Ljava/lang/String;)V
+   Method Start: debugClassloaders()V
+      @|com/cout970/rocketdrm/RocketDRM.java|4646|4663|debugClassloaders|method|com.cout970.rocketdrm.RocketDRM|debugClassloaders|()V
+      @|com/cout970/rocketdrm/RocketDRM.java|4676|4682|LOGGER|field|com.cout970.rocketdrm.RocketDRM|LOGGER
+      @|com/cout970/rocketdrm/RocketDRM.java|4683|4687|info|method|org.apache.logging.log4j.Logger|info|(Ljava/lang/String;)V
+      @|com/cout970/rocketdrm/RocketDRM.java|4721|4729|getClass|method|java.lang.Object|getClass|()Ljava/lang/Class;
+      @|com/cout970/rocketdrm/RocketDRM.java|4732|4746|getClassLoader|method|java.lang.Class|getClassLoader|()Ljava/lang/ClassLoader;
+      @|com/cout970/rocketdrm/RocketDRM.java|4759|4765|LOGGER|field|com.cout970.rocketdrm.RocketDRM|LOGGER
+      @|com/cout970/rocketdrm/RocketDRM.java|4766|4770|info|method|org.apache.logging.log4j.Logger|info|(Ljava/lang/String;)V
+      @|com/cout970/rocketdrm/RocketDRM.java|4797|4803|Object|class|java.lang.Object|false
+      @|com/cout970/rocketdrm/RocketDRM.java|4804|4810|Launch|class|net.minecraft.launchwrapper.Launch|false
+      @|com/cout970/rocketdrm/RocketDRM.java|4811|4822|classLoader|field|net.minecraft.launchwrapper.Launch|classLoader
+      @|com/cout970/rocketdrm/RocketDRM.java|4833|4844|ClassLoader|class|java.lang.ClassLoader|false
+      @|com/cout970/rocketdrm/RocketDRM.java|4862|4868|Launch|class|net.minecraft.launchwrapper.Launch|false
+      @|com/cout970/rocketdrm/RocketDRM.java|4869|4880|classLoader|field|net.minecraft.launchwrapper.Launch|classLoader
+      @|com/cout970/rocketdrm/RocketDRM.java|4881|4889|getClass|method|java.lang.Object|getClass|()Ljava/lang/Class;
+      @|com/cout970/rocketdrm/RocketDRM.java|4892|4906|getClassLoader|method|java.lang.Class|getClassLoader|()Ljava/lang/ClassLoader;
+      @|com/cout970/rocketdrm/RocketDRM.java|4918|4924|LOGGER|field|com.cout970.rocketdrm.RocketDRM|LOGGER
+      @|com/cout970/rocketdrm/RocketDRM.java|4925|4929|info|method|org.apache.logging.log4j.Logger|info|(Ljava/lang/String;)V
+      @|com/cout970/rocketdrm/RocketDRM.java|4995|5000|Class|class|java.lang.Class|false
+      @|com/cout970/rocketdrm/RocketDRM.java|5024|5029|Class|class|java.lang.Class|false
+      @|com/cout970/rocketdrm/RocketDRM.java|5030|5037|forName|method|java.lang.Class|forName|(Ljava/lang/String;ZLjava/lang/ClassLoader;)Ljava/lang/Class;
+      @|com/cout970/rocketdrm/RocketDRM.java|5119|5125|LOGGER|field|com.cout970.rocketdrm.RocketDRM|LOGGER
+      @|com/cout970/rocketdrm/RocketDRM.java|5126|5130|info|method|org.apache.logging.log4j.Logger|info|(Ljava/lang/String;)V
+      @|com/cout970/rocketdrm/RocketDRM.java|5173|5187|getClassLoader|method|java.lang.Class|getClassLoader|()Ljava/lang/ClassLoader;
+      @|com/cout970/rocketdrm/RocketDRM.java|5217|5226|Throwable|class|java.lang.Throwable|false
+      @|com/cout970/rocketdrm/RocketDRM.java|5244|5250|LOGGER|field|com.cout970.rocketdrm.RocketDRM|LOGGER
+      @|com/cout970/rocketdrm/RocketDRM.java|5251|5255|info|method|org.apache.logging.log4j.Logger|info|(Ljava/lang/String;)V
+      @|com/cout970/rocketdrm/RocketDRM.java|5307|5313|LOGGER|field|com.cout970.rocketdrm.RocketDRM|LOGGER
+      @|com/cout970/rocketdrm/RocketDRM.java|5314|5318|info|method|org.apache.logging.log4j.Logger|info|(Ljava/lang/String;)V
+      @|com/cout970/rocketdrm/RocketDRM.java|5341|5345|File|class|java.io.File|false
+      @|com/cout970/rocketdrm/RocketDRM.java|5351|5366|getAbsolutePath|method|java.io.File|getAbsolutePath|()Ljava/lang/String;
+   Method End: debugClassloaders()V
+   Method Start: fixClassloader(Ljava/io/File;)V
+      @|com/cout970/rocketdrm/RocketDRM.java|5415|5427|jar_location|param|com.cout970.rocketdrm.RocketDRM|fixClassloader|(Ljava/io/File;)V|jar_location|0
+      @|com/cout970/rocketdrm/RocketDRM.java|5395|5409|fixClassloader|method|com.cout970.rocketdrm.RocketDRM|fixClassloader|(Ljava/io/File;)V
+      @|com/cout970/rocketdrm/RocketDRM.java|5410|5414|File|class|java.io.File|false
+      @|com/cout970/rocketdrm/RocketDRM.java|5439|5450|ClassLoader|class|java.lang.ClassLoader|false
+      @|com/cout970/rocketdrm/RocketDRM.java|5469|5480|ClassLoader|class|java.lang.ClassLoader|false
+      @|com/cout970/rocketdrm/RocketDRM.java|5481|5501|getSystemClassLoader|method|java.lang.ClassLoader|getSystemClassLoader|()Ljava/lang/ClassLoader;
+      @|com/cout970/rocketdrm/RocketDRM.java|5544|5558|URLClassLoader|class|java.net.URLClassLoader|false
+      @|com/cout970/rocketdrm/RocketDRM.java|5562|5574|jar_location|param|com.cout970.rocketdrm.RocketDRM|fixClassloader|(Ljava/io/File;)V|jar_location|0
+      @|com/cout970/rocketdrm/RocketDRM.java|5598|5612|URLClassLoader|class|java.net.URLClassLoader|false
+      @|com/cout970/rocketdrm/RocketDRM.java|5623|5637|URLClassLoader|class|java.net.URLClassLoader|false
+      @|com/cout970/rocketdrm/RocketDRM.java|5667|5671|List|class|java.util.List|false
+      @|com/cout970/rocketdrm/RocketDRM.java|5672|5675|URL|class|java.net.URL|false
+      @|com/cout970/rocketdrm/RocketDRM.java|5684|5690|Arrays|class|java.util.Arrays|false
+      @|com/cout970/rocketdrm/RocketDRM.java|5691|5697|asList|method|java.util.Arrays|asList|([Ljava/lang/Object;)Ljava/util/List;
+      @|com/cout970/rocketdrm/RocketDRM.java|5705|5712|getURLs|method|java.net.URLClassLoader|getURLs|()[Ljava/net/URL;
+      @|com/cout970/rocketdrm/RocketDRM.java|5751|5754|URL|class|java.net.URL|false
+      @|com/cout970/rocketdrm/RocketDRM.java|5765|5777|jar_location|param|com.cout970.rocketdrm.RocketDRM|fixClassloader|(Ljava/io/File;)V|jar_location|0
+      @|com/cout970/rocketdrm/RocketDRM.java|5778|5783|toURI|method|java.io.File|toURI|()Ljava/net/URI;
+      @|com/cout970/rocketdrm/RocketDRM.java|5786|5791|toURL|method|java.net.URI|toURL|()Ljava/net/URL;
+      @|com/cout970/rocketdrm/RocketDRM.java|5821|5829|contains|method|java.util.Collection|contains|(Ljava/lang/Object;)Z
+      @|com/cout970/rocketdrm/RocketDRM.java|5862|5868|Method|class|java.lang.reflect.Method|false
+      @|com/cout970/rocketdrm/RocketDRM.java|5878|5892|URLClassLoader|class|java.net.URLClassLoader|false
+      @|com/cout970/rocketdrm/RocketDRM.java|5899|5916|getDeclaredMethod|method|java.lang.Class|getDeclaredMethod|(Ljava/lang/String;[Ljava/lang/Class;)Ljava/lang/reflect/Method;
+      @|com/cout970/rocketdrm/RocketDRM.java|5927|5930|URL|class|java.net.URL|false
+      @|com/cout970/rocketdrm/RocketDRM.java|5966|5979|setAccessible|method|java.lang.reflect.AccessibleObject|setAccessible|(Z)V
+      @|com/cout970/rocketdrm/RocketDRM.java|6014|6020|invoke|method|java.lang.reflect.Method|invoke|(Ljava/lang/Object;[Ljava/lang/Object;)Ljava/lang/Object;
+      @|com/cout970/rocketdrm/RocketDRM.java|6099|6121|IllegalAccessException|class|java.lang.IllegalAccessException|false
+      @|com/cout970/rocketdrm/RocketDRM.java|6124|6145|NoSuchMethodException|class|java.lang.NoSuchMethodException|false
+      @|com/cout970/rocketdrm/RocketDRM.java|6148|6173|InvocationTargetException|class|java.lang.reflect.InvocationTargetException|false
+      @|com/cout970/rocketdrm/RocketDRM.java|6176|6197|MalformedURLException|class|java.net.MalformedURLException|false
+      @|com/cout970/rocketdrm/RocketDRM.java|6221|6236|printStackTrace|method|java.lang.Throwable|printStackTrace|()V
+   Method End: fixClassloader(Ljava/io/File;)V
+   Method Start: setupJarLocation()Ljava/io/File;
+      @|com/cout970/rocketdrm/RocketDRM.java|6283|6287|File|class|java.io.File|false
+      @|com/cout970/rocketdrm/RocketDRM.java|6288|6304|setupJarLocation|method|com.cout970.rocketdrm.RocketDRM|setupJarLocation|()Ljava/io/File;
+      @|com/cout970/rocketdrm/RocketDRM.java|6317|6321|File|class|java.io.File|false
+      @|com/cout970/rocketdrm/RocketDRM.java|6329|6335|Launch|class|net.minecraft.launchwrapper.Launch|false
+      @|com/cout970/rocketdrm/RocketDRM.java|6336|6349|minecraftHome|field|net.minecraft.launchwrapper.Launch|minecraftHome
+      @|com/cout970/rocketdrm/RocketDRM.java|6360|6366|Launch|class|net.minecraft.launchwrapper.Launch|false
+      @|com/cout970/rocketdrm/RocketDRM.java|6367|6380|minecraftHome|field|net.minecraft.launchwrapper.Launch|minecraftHome
+      @|com/cout970/rocketdrm/RocketDRM.java|6387|6391|File|class|java.io.File|false
+      @|com/cout970/rocketdrm/RocketDRM.java|6406|6410|File|class|java.io.File|false
+      @|com/cout970/rocketdrm/RocketDRM.java|6422|6426|File|class|java.io.File|false
+      @|com/cout970/rocketdrm/RocketDRM.java|6450|6454|File|class|java.io.File|false
+      @|com/cout970/rocketdrm/RocketDRM.java|6465|6472|Objects|class|java.util.Objects|false
+      @|com/cout970/rocketdrm/RocketDRM.java|6473|6487|requireNonNull|method|java.util.Objects|requireNonNull|(Ljava/lang/Object;)Ljava/lang/Object;
+      @|com/cout970/rocketdrm/RocketDRM.java|6493|6502|listFiles|method|java.io.File|listFiles|()[Ljava/io/File;
+      @|com/cout970/rocketdrm/RocketDRM.java|6515|6522|HashMap|class|java.util.HashMap|false
+      @|com/cout970/rocketdrm/RocketDRM.java|6523|6529|String|class|java.lang.String|false
+      @|com/cout970/rocketdrm/RocketDRM.java|6531|6537|String|class|java.lang.String|false
+      @|com/cout970/rocketdrm/RocketDRM.java|6549|6556|HashMap|class|java.util.HashMap|false
+      @|com/cout970/rocketdrm/RocketDRM.java|6557|6563|String|class|java.lang.String|false
+      @|com/cout970/rocketdrm/RocketDRM.java|6565|6571|String|class|java.lang.String|false
+      @|com/cout970/rocketdrm/RocketDRM.java|6615|6619|File|class|java.io.File|false
+      @|com/cout970/rocketdrm/RocketDRM.java|6648|6652|File|class|java.io.File|false
+      @|com/cout970/rocketdrm/RocketDRM.java|6691|6698|getName|method|java.io.File|getName|()Ljava/lang/String;
+      @|com/cout970/rocketdrm/RocketDRM.java|6701|6709|endsWith|method|java.lang.String|endsWith|(Ljava/lang/String;)Z
+      @|com/cout970/rocketdrm/RocketDRM.java|6763|6773|Attributes|class|java.util.jar.Attributes|false
+      @|com/cout970/rocketdrm/RocketDRM.java|6806|6813|JarFile|class|java.util.jar.JarFile|false
+      @|com/cout970/rocketdrm/RocketDRM.java|6824|6831|JarFile|class|java.util.jar.JarFile|false
+      @|com/cout970/rocketdrm/RocketDRM.java|6863|6874|getManifest|method|java.util.jar.JarFile|getManifest|()Ljava/util/jar/Manifest;
+      @|com/cout970/rocketdrm/RocketDRM.java|6889|6896|Objects|class|java.util.Objects|false
+      @|com/cout970/rocketdrm/RocketDRM.java|6897|6903|equals|method|java.util.Objects|equals|(Ljava/lang/Object;Ljava/lang/Object;)Z
+      @|com/cout970/rocketdrm/RocketDRM.java|6926|6937|getManifest|method|java.util.jar.JarFile|getManifest|()Ljava/util/jar/Manifest;
+      @|com/cout970/rocketdrm/RocketDRM.java|6940|6957|getMainAttributes|method|java.util.jar.Manifest|getMainAttributes|()Ljava/util/jar/Attributes;
+      @|com/cout970/rocketdrm/RocketDRM.java|6961|6969|getValue|method|java.util.jar.Attributes|getValue|(Ljava/lang/String;)Ljava/lang/String;
+      @|com/cout970/rocketdrm/RocketDRM.java|7064|7080|getCanonicalFile|method|java.io.File|getCanonicalFile|()Ljava/io/File;
+      @|com/cout970/rocketdrm/RocketDRM.java|7104|7107|put|method|java.util.Map|put|(Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;
+      @|com/cout970/rocketdrm/RocketDRM.java|7128|7143|getAbsolutePath|method|java.io.File|getAbsolutePath|()Ljava/lang/String;
+      @|com/cout970/rocketdrm/RocketDRM.java|7234|7243|Throwable|class|java.lang.Throwable|false
+      @|com/cout970/rocketdrm/RocketDRM.java|7378|7381|put|method|java.util.Map|put|(Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;
+      @|com/cout970/rocketdrm/RocketDRM.java|7433|7442|Throwable|class|java.lang.Throwable|false
+      @|com/cout970/rocketdrm/RocketDRM.java|7525|7531|Launch|class|net.minecraft.launchwrapper.Launch|false
+      @|com/cout970/rocketdrm/RocketDRM.java|7532|7542|blackboard|field|net.minecraft.launchwrapper.Launch|blackboard
+      @|com/cout970/rocketdrm/RocketDRM.java|7543|7546|put|method|java.util.Map|put|(Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;
+   Method End: setupJarLocation()Ljava/io/File;
+   Method Start: getASMTransformerClass()[Ljava/lang/String;
+      @|com/cout970/rocketdrm/RocketDRM.java|7612|7618|String|class|java.lang.String|false
+      @|com/cout970/rocketdrm/RocketDRM.java|7621|7643|getASMTransformerClass|method|net.minecraftforge.fml.relauncher.IFMLLoadingPlugin|getASMTransformerClass|()[Ljava/lang/String;
+      @|com/cout970/rocketdrm/RocketDRM.java|7667|7673|String|class|java.lang.String|false
+   Method End: getASMTransformerClass()[Ljava/lang/String;
+   Method Start: getModContainerClass()Ljava/lang/String;
+      @|com/cout970/rocketdrm/RocketDRM.java|7696|7702|String|class|java.lang.String|false
+      @|com/cout970/rocketdrm/RocketDRM.java|7703|7723|getModContainerClass|method|net.minecraftforge.fml.relauncher.IFMLLoadingPlugin|getModContainerClass|()Ljava/lang/String;
+   Method End: getModContainerClass()Ljava/lang/String;
+   Method Start: getSetupClass()Ljava/lang/String;
+      @|com/cout970/rocketdrm/RocketDRM.java|7767|7773|String|class|java.lang.String|false
+      @|com/cout970/rocketdrm/RocketDRM.java|7774|7787|getSetupClass|method|net.minecraftforge.fml.relauncher.IFMLLoadingPlugin|getSetupClass|()Ljava/lang/String;
+   Method End: getSetupClass()Ljava/lang/String;
+   Method Start: injectData(Ljava/util/Map;)V
+      @|com/cout970/rocketdrm/RocketDRM.java|7867|7870|map|param|com.cout970.rocketdrm.RocketDRM|injectData|(Ljava/util/Map;)V|map|0
+      @|com/cout970/rocketdrm/RocketDRM.java|7836|7846|injectData|method|net.minecraftforge.fml.relauncher.IFMLLoadingPlugin|injectData|(Ljava/util/Map;)V
+      @|com/cout970/rocketdrm/RocketDRM.java|7847|7850|Map|class|java.util.Map|false
+      @|com/cout970/rocketdrm/RocketDRM.java|7851|7857|String|class|java.lang.String|false
+      @|com/cout970/rocketdrm/RocketDRM.java|7859|7865|Object|class|java.lang.Object|false
+      @|com/cout970/rocketdrm/RocketDRM.java|7882|7889|HashMap|class|java.util.HashMap|false
+      @|com/cout970/rocketdrm/RocketDRM.java|7905|7912|HashMap|class|java.util.HashMap|false
+      @|com/cout970/rocketdrm/RocketDRM.java|7913|7919|Launch|class|net.minecraft.launchwrapper.Launch|false
+      @|com/cout970/rocketdrm/RocketDRM.java|7920|7930|blackboard|field|net.minecraft.launchwrapper.Launch|blackboard
+      @|com/cout970/rocketdrm/RocketDRM.java|7931|7934|get|method|java.util.Map|get|(Ljava/lang/Object;)Ljava/lang/Object;
+      @|com/cout970/rocketdrm/RocketDRM.java|7974|7980|putAll|method|java.util.Map|putAll|(Ljava/util/Map;)V
+      @|com/cout970/rocketdrm/RocketDRM.java|7981|7984|map|param|com.cout970.rocketdrm.RocketDRM|injectData|(Ljava/util/Map;)V|map|0
+      @|com/cout970/rocketdrm/RocketDRM.java|7995|8002|JniUtil|class|com.cout970.rocketdrm.JniUtil|false
+      @|com/cout970/rocketdrm/RocketDRM.java|8003|8013|onGameInit|method|com.cout970.rocketdrm.JniUtil|onGameInit|()V
+   Method End: injectData(Ljava/util/Map;)V
+   Method Start: getAccessTransformerClass()Ljava/lang/String;
+      @|com/cout970/rocketdrm/RocketDRM.java|8035|8041|String|class|java.lang.String|false
+      @|com/cout970/rocketdrm/RocketDRM.java|8042|8067|getAccessTransformerClass|method|net.minecraftforge.fml.relauncher.IFMLLoadingPlugin|getAccessTransformerClass|()Ljava/lang/String;
+   Method End: getAccessTransformerClass()Ljava/lang/String;
+Class End  : com.cout970.rocketdrm.RocketDRM
+endProcessing "com/cout970/rocketdrm/RocketDRM.java"
+

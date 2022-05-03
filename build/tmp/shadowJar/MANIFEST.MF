@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+FMLCorePluginContainsFMLMod: true
+ForceLoadAsMod: true
+FMLCorePlugin: com.cout970.rocketdrm.RocketDRM
+

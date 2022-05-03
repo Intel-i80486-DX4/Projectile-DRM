@@ -39,7 +39,7 @@ public class ErrorHandler {
             }
              */
         }
-        JniUtil.hardCrash();
+        //JniUtil.hardCrash(); Funny Stuff.
     }
 
     public static void showCrash(Thread th, Throwable exception) {
